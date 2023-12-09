@@ -5,10 +5,10 @@
 - <b>Honey Net</b>
   - [](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Logs</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows EventLog: ](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe ()](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory ](https://github.com/joshmadakor1/AD_PS)
+  - [File permissions](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b> Solutions</b>
   - [Vulnerability Assesment Report](https://github.com/joshmadakor1/EncrypterPOC)
   - [Alert Ticket](https://github.com/joshmadakor1/DecrypterPOC)
