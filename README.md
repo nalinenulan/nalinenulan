@@ -21,7 +21,7 @@
   - [Applying filters to SQL](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Java</b>
   - [Combining files](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Updating files(https://github.com/joshmadakor1/DecrypterPOC)
+  - [Updating files](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Automate file removal](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
