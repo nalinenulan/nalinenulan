@@ -8,7 +8,7 @@
   - [Windows EventLog: ](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe ()](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory ](https://github.com/joshmadakor1/AD_PS)
-  - [File permissions](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [File permissions Linux](https://github.com/nalinenulan/File-permissions-Linux)
 - <b> Solutions</b>
   - [Vulnerability Assesment Report](https://github.com/joshmadakor1/EncrypterPOC)
   - [Alert Ticket](https://github.com/joshmadakor1/DecrypterPOC)
