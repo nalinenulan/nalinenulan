@@ -6,8 +6,7 @@
   - []()
 - <b>Logs</b>
   - [Windows EventLog: ]()
-  - [JWipe ()]()
-  - [Active Directory ]()
+  - [SQL logs](https://github.com/nalinenulan/SQL-logs)
   - [File permissions Linux](https://github.com/nalinenulan/File-permissions-Linux)
 - <b> Solutions</b>
   - [Vulnerability Assesment Report]()
