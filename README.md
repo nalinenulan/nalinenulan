@@ -1,38 +1,36 @@
-<h1>Hi, I'm Naline! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> and <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Naline! <br/><a href="https://www.linkedin.com/in/nalinenulan">Cybersecurity Professional</a> and <a href="https://www.youtube.com/c/nalinenualn">YouTuber</a></h1>
 
 <h2>👩🏽‍💻 Cyber Security Projects:</h2>
 
 - <b>Honey Net</b>
-  - [](https://github.com/joshmadakor1/Algorithms-Practice)
+  - []()
 - <b>Logs</b>
-  - [Windows EventLog: ](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe ()](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory ](https://github.com/joshmadakor1/AD_PS)
+  - [Windows EventLog: ]()
+  - [JWipe ()]()
+  - [Active Directory ]()
   - [File permissions Linux](https://github.com/nalinenulan/File-permissions-Linux)
 - <b> Solutions</b>
-  - [Vulnerability Assesment Report](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Alert Ticket](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Security incident report](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Vulnerability Assesment Report]()
+  - [Alert Ticket]()
+  - [Security incident report]()
 
 <h2>👩🏽‍🔧 Programming Projects:</h2>
 
 - <b>SQL</b>
-  - [SQL Database](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Applying filters to SQL](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SQL Database]()
+  - [Applying filters to SQL]()
 - <b>Java</b>
-  - [Combining files](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Updating files](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Combining files]()
+  - [Updating files]()
+  - [Keylogger with Email Capability]()
 - <b>Python</b>
-  - [Automate file removal](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Automate file removal](https://github.com/nalinenulan/file-updates-in-Python)
 
 <h2>📺 YouTube Videos</h2>
 
-- [Cyber events](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [study.com](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Cyber events]()
+- [study.com]()
+- [Is WGU worth it?]()
 
 <h2> 🤳 Connect with me:</h2>
 
