@@ -5,7 +5,7 @@
 - <b>Honey Net</b>
   - []()
 - <b>Logs</b>
-  - [Windows Event Logs: ](https://github.com/nalinenulan/Windows-Event-Logs)
+  - [Windows Event Logs ](https://github.com/nalinenulan/Windows-Event-Logs)
   - [SQL logs](https://github.com/nalinenulan/SQL-logs)
   - [File permissions Linux](https://github.com/nalinenulan/File-permissions-Linux)
 - <b> Solutions</b>
@@ -17,7 +17,7 @@
 
 - <b>SQL</b>
   - [Create SQL Database](https://github.com/nalinenulan/SQL-database)
-  - [Applying filters to SQL]()
+  - [Applying filters to SQL](https://github.com/nalinenulan/SQL-filters)
 - <b>Java</b>
   - [Combining Arrays](https://github.com/nalinenulan/Combining-Arrays-in-Java)
   - [AI Program](https://github.com/nalinenulan/AI-Prgram/)
