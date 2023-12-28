@@ -16,7 +16,7 @@
 <h2>👩🏽‍🔧 Programming Projects:</h2>
 
 - <b>SQL</b>
-  - [SQL Database]()
+  - [Create SQL Database](https://github.com/nalinenulan/SQL-database)
   - [Applying filters to SQL]()
 - <b>Java</b>
   - [Combining Arrays](https://github.com/nalinenulan/Combining-Arrays-in-Java)
