@@ -19,9 +19,8 @@
   - [SQL Database]()
   - [Applying filters to SQL]()
 - <b>Java</b>
-  - [Combining files]()
-  - [Updating files]()
-  - [Keylogger with Email Capability]()
+  - [Combining Arrays](https://github.com/nalinenulan/Combining-Arrays-in-Java)
+  - [AI Program](https://github.com/nalinenulan/AI-Prgram/)
 - <b>Python</b>
   - [Automate file removal](https://github.com/nalinenulan/file-updates-in-Python)
 
