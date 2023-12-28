@@ -1,4 +1,4 @@
-<h1>Hi, I'm Naline! <br/><a href="https://www.linkedin.com/in/nalinenulan">Cybersecurity Professional</a> and <a href="https://www.youtube.com/channel/UCv2K_TNL9YF95a4YyuCIfkg">YouTuber</a></h1>
+<h1>Hi, I'm Naline! <br/><a href="https://www.linkedin.com/in/nalinenulan">Cybersecurity Professional</a>, <br/><a href="https://www.linkedin.com/in/nalinenulan">Programmer</a> and <a href="https://www.youtube.com/channel/UCv2K_TNL9YF95a4YyuCIfkg">YouTuber</a></h1>
 
 <h2>👩🏽‍💻 Cyber Security Projects:</h2>
 
