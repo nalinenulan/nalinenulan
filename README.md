@@ -5,11 +5,11 @@
 - <b>Honey Net</b>
   - []()
 - <b>Logs</b>
-  - [Windows EventLog: ]()
+  - [Windows Event Logs: ](https://github.com/nalinenulan/Windows-Event-Logs)
   - [SQL logs](https://github.com/nalinenulan/SQL-logs)
   - [File permissions Linux](https://github.com/nalinenulan/File-permissions-Linux)
 - <b> Solutions</b>
-  - [Vulnerability Assesment Report]()
+  - [Vulnerability Incident Report](https://github.com/nalinenulan/Cybersecurity-Incident-Report/)
   - [Alert Ticket](https://github.com/nalinenulan/Alert-ticket/)
   - [Security incident report](https://github.com/nalinenulan/Security-incident-report/)
 
